@@ -17,6 +17,5 @@ node mockServer.js
 - Activities are displayed in reverse chronological order
 
 ## Improvements
-- Mock WebSocket server for consistent testing
 - Add timestamps and user IDs
 - Display in a table or timeline component
